@@ -653,9 +653,10 @@ small {
   }
 }
 
-#intro {
-  margin-bottom: -300px;
+#about {
+  margin-top: 100px;  /* You can tweak: 100px, 150px depending on your taste */
 }
+
 
 @media (max-width: 600px) {
   h2 {
